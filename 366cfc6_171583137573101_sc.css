@@ -209,3 +209,16 @@ lottie-player {
     border-radius: 10px;
     padding: 1%;
 }
+..plyr__control--overlaid{
+    background:#5262d0!important;
+    background-color:#5262d0!important;
+}
+.plyr--full-ui input[type=range]{
+  color:#5262d0!important;
+}
+.plyr--video .plyr__control:focus-visible, .plyr--video .plyr__control:hover, .plyr--video .plyr__control[aria-expanded=true]{
+    background:#5262d0!important;
+    background-color:#5262d0!important;
+
+  
+}
