@@ -231,7 +231,7 @@ lottie-player {
     background:#5262d0!important;
     background-color:#5262d0!important;
 }
-.plyr--video .plyr__control{
+.plyr__control.plyr__control--overlaid{
     background:#5262d0!important;
     background-color:#5262d0!important;
 }
